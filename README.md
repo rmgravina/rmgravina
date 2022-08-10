@@ -1,16 +1,16 @@
 ## ROGÉRIO M. GRAVINA 👽
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmgravina&theme=cobalt&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmgravina&langs_count=3&layout=compact)
-
-##### SOCIAL MEDIA
+![PixelArt_](https://user-images.githubusercontent.com/30808348/183814376-97c5800a-2ea4-4212-8d06-10fc802c5805.gif)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmgravina)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rmgravina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-gravina-0a2497b4/)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmgravina&theme=cobalt&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmgravina&langs_count=3&layout=compact)
+
+### SKILLS
 
 ##### OS
 
@@ -20,7 +20,7 @@
 
 
 
-##### SKILLS
+##### CODE
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
