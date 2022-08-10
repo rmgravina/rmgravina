@@ -1,16 +1,16 @@
+___
 ## ROGÉRIO M. GRAVINA 👽
 
-![PixelArt_](https://user-images.githubusercontent.com/30808348/183814376-97c5800a-2ea4-4212-8d06-10fc802c5805.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/30808348/183815591-a2f894e5-99a2-482a-ba7b-95d388594dcc.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmgravina&theme=cobalt&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmgravina&langs_count=3&layout=compact) -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rmgravina)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rmgravina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-gravina-0a2497b4/)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmgravina&theme=cobalt&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmgravina&langs_count=3&layout=compact)
-
+___
 ### SKILLS
+___
 
 ##### OS
 
@@ -57,3 +57,4 @@
 
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+___
